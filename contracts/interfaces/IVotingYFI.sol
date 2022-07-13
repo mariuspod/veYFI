@@ -17,5 +17,4 @@ interface IVotingYFI is IERC20 {
         uint256 unlock_time,
         address user
     ) external;
-
 }
